@@ -1,0 +1,43 @@
+{
+  "name": "mian-x-niazi-bot",
+  "version": "2.0.0",
+  "description": "MIAN x NIAZI - Advanced WhatsApp Multi Device Bot with AI & Downloader Features",
+  "main": "index.js",
+
+  "engines": {
+    "node": ">=20.x",
+    "npm": ">=10.x"
+  },
+
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "stop": "pkill -f node",
+    "restart": "pkill -f node && npm start"
+  },
+
+  "author": "MIAN x NIAZI (923220225993)",
+
+  "keywords": [
+    "whatsapp-bot",
+    "baileys",
+    "multi-device",
+    "ai-bot",
+    "mian-niazi"
+  ],
+
+  "license": "MIT",
+
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "axios": "^1.8.3",
+    "dotenv": "^16.5.0",
+    "megajs": "^1.3.2",
+    "moment-timezone": "^0.5.45",
+    "os": "^0.1.1"
+  },
+
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
