@@ -7,67 +7,87 @@
 &lt;/p&gt;
 
 &lt;p align="center"&gt;
-&lt;a href="https://github.com/niazi-bot"&gt;&lt;img title="Author" src="https://img.shields.io/badge/MIAN%20x%20NIAZI-darkgreen?style=for-the-badge&logo=whatsapp"&gt;&lt;/a&gt;
+  &lt;a href="https://github.com/niazi-bot"&gt;
+    &lt;img title="Author" src="https://img.shields.io/badge/MIAN%20x%20NIAZI-darkgreen?style=for-the-badge&logo=whatsapp"&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
+
+---
+
+## 🚀 DEPLOYMENT STEPS
+
+### 1️⃣ FORK REPOSITORY
+
+&lt;p align="center"&gt;
+  &lt;a href="https://github.com/niazi-bot/MIAN-x-NIAZI/fork" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/FORK%20REPO-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=darkblue&color=darkblue" height="40"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
+
+---
+
+### 2️⃣ GET SESSION ID
+
+&lt;p align="center"&gt;
+  &lt;a href="https://pair.niazi-bot.repl.co" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/PAIR%20CODE-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=darkred&color=darkred" height="40" width="200"/&gt;
+  &lt;/a&gt;
 &lt;/p&gt;
 
 &lt;p align="center"&gt;
-    &lt;strong&gt;1. FORK REPOSITORY&lt;/strong&gt;
-  &lt;br&gt;
-    &lt;a href="https://github.com/niazi-bot/MIAN-x-NIAZI/fork" target="_blank"&gt;
-        &lt;img alt="Fork Repo" src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=darkblue&color=darkblue"/&gt;
-    &lt;/a&gt;
+  &lt;a href="https://qr.niazi-bot.repl.co" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/QR%20CODE-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=darkgreen&color=darkgreen" height="40" width="200"/&gt;
+  &lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p align="center"&gt;
-    &lt;strong&gt;2. GET SESSION ID&lt;/strong&gt;
-    &lt;br&gt;
-    &lt;a href="https://pair.niazi-bot.repl.co" target="_blank"&gt;
-        &lt;img alt="PAIR CODE" src="https://img.shields.io/badge/Pair%20Code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/&gt;
-    &lt;/a&gt;
-    &lt;br&gt;
-    &lt;a href="https://qr.niazi-bot.repl.co" target="_blank"&gt;
-        &lt;img alt="QR CODE" src="https://img.shields.io/badge/QR%20Code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkgreen&color=darkgreen"/&gt;
-    &lt;/a&gt;
-&lt;/p&gt;
+---
+
+### 3️⃣ DEPLOY TO HEROKU
 
 &lt;p align="center"&gt;
-    &lt;strong&gt;3. DEPLOY TO HEROKU&lt;/strong&gt;
-    &lt;br&gt;
-    &lt;a href="https://dashboard.heroku.com/new?template=https://github.com/niazi-bot/MIAN-x-NIAZI" target="_blank"&gt;
-        &lt;img alt="Deploy to heroku" src="https://img.shields.io/badge/Heroku-100000?style=for-the-badge&logo=heroku&logoColor=white&labelColor=purple&color=purple"/&gt;
-    &lt;/a&gt;
+  &lt;a href="https://dashboard.heroku.com/new?template=https://github.com/niazi-bot/MIAN-x-NIAZI" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/HEROKU-100000?style=for-the-badge&logo=heroku&logoColor=white&labelColor=purple&color=purple" height="40" width="200"/&gt;
+  &lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p align="center"&gt;
-    &lt;strong&gt;4. DEPLOY TO RAILWAY&lt;/strong&gt;
-    &lt;br&gt;
-    &lt;a href="https://railway.app/new/template?template=https://github.com/niazi-bot/MIAN-x-NIAZI" target="_blank"&gt;
-        &lt;img alt="Deploy to railway" src="https://img.shields.io/badge/Railway-100000?style=for-the-badge&logo=railway&logoColor=white&labelColor=black&color=black"/&gt;
-    &lt;/a&gt;
-&lt;/p&gt;
+---
+
+### 4️⃣ DEPLOY TO RAILWAY
 
 &lt;p align="center"&gt;
-    &lt;strong&gt;5. DEPLOY TO RENDER&lt;/strong&gt;
-    &lt;br&gt;
-    &lt;a href="https://render.com/deploy?repo=https://github.com/niazi-bot/MIAN-x-NIAZI" target="_blank"&gt;
-        &lt;img alt="Deploy to render" src="https://img.shields.io/badge/Render-100000?style=for-the-badge&logo=render&logoColor=white&labelColor=green&color=green"/&gt;
-    &lt;/a&gt;
+  &lt;a href="https://railway.app/new/template?template=https://github.com/niazi-bot/MIAN-x-NIAZI" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/RAILWAY-100000?style=for-the-badge&logo=railway&logoColor=white&labelColor=black&color=black" height="40" width="200"/&gt;
+  &lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p align="center"&gt;
-    &lt;strong&gt;6. DEPLOY TO KOYEB&lt;/strong&gt;
-    &lt;br&gt;
-    &lt;a href="https://app.koyeb.com/deploy?type=git&repository=github.com/niazi-bot/MIAN-x-NIAZI&branch=main&name=mian-x-niazi" target="_blank"&gt;
-        &lt;img alt="Deploy to koyeb" src="https://img.shields.io/badge/Koyeb-100000?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=orange&color=orange"/&gt;
-    &lt;/a&gt;
-&lt;/p&gt;
+---
+
+### 5️⃣ DEPLOY TO RENDER
 
 &lt;p align="center"&gt;
-    &lt;strong&gt;7. DOWNLOAD BOT ZIP&lt;/strong&gt;
-    &lt;br&gt;
-    &lt;a href="https://codeload.github.com/niazi-bot/MIAN-x-NIAZI/zip/refs/heads/main" target="_blank"&gt;
-        &lt;img alt="Download zip" src="https://img.shields.io/badge/Download%20ZIP-100000?style=for-the-badge&logo=zip&logoColor=white&labelColor=darkorange&color=darkorange"/&gt;
-    &lt;/a&gt;
+  &lt;a href="https://render.com/deploy?repo=https://github.com/niazi-bot/MIAN-x-NIAZI" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/RENDER-100000?style=for-the-badge&logo=render&logoColor=white&labelColor=green&color=green" height="40" width="200"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
+
+---
+
+### 6️⃣ DEPLOY TO KOYEB
+
+&lt;p align="center"&gt;
+  &lt;a href="https://app.koyeb.com/deploy?type=git&repository=github.com/niazi-bot/MIAN-x-NIAZI&branch=main&name=mian-x-niazi" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/KOYEB-100000?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=orange&color=orange" height="40" width="200"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
+
+---
+
+### 7️⃣ DOWNLOAD ZIP
+
+&lt;p align="center"&gt;
+  &lt;a href="https://codeload.github.com/niazi-bot/MIAN-x-NIAZI/zip/refs/heads/main" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-100000?style=for-the-badge&logo=zip&logoColor=white&labelColor=darkorange&color=darkorange" height="40" width="200"/&gt;
+  &lt;/a&gt;
 &lt;/p&gt;
 
 ---
@@ -101,46 +121,37 @@
 
 ## 📞 CONNECT WITH US
 
+### 💬 JOIN SUPPORT GROUP
+
 &lt;p align="center"&gt;
   &lt;a href="https://chat.whatsapp.com/KNKV4dse94p3y9yYapcaYR" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/Join%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://whatsapp.com/channel/0029VbByXON8KMqcY2Ilj53s" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/Follow%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/&gt;
+    &lt;img src="https://img.shields.io/badge/JOIN%20GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" width="200"/&gt;
   &lt;/a&gt;
 &lt;/p&gt;
 
+### 📢 FOLLOW CHANNEL
+
 &lt;p align="center"&gt;
-  &lt;a href="https://github.com/niazi-bot" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://youtube.com/@niazi-bot" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/&gt;
+  &lt;a href="https://whatsapp.com/channel/0029VbByXON8KMqcY2Ilj53s" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/FOLLOW%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" width="200"/&gt;
   &lt;/a&gt;
 &lt;/p&gt;
 
 ---
 
-## 🚀 QUICK START
-
-### Prerequisites
-- [Node.js](https://nodejs.org/) v18+
-- [Git](https://git-scm.com/)
-- [FFmpeg](https://ffmpeg.org/)
-
-### Installation
+## ⚙️ QUICK SETUP
 
 ```bash
-# Clone repository
+# 1. Clone repository
 git clone https://github.com/niazi-bot/MIAN-x-NIAZI.git
 cd MIAN-x-NIAZI
 
-# Install dependencies
+# 2. Install dependencies
 npm install
 
-# Setup environment
+# 3. Setup environment
 cp .env.example .env
 # Edit .env with your details
 
-# Start bot
+# 4. Start bot
 npm start
