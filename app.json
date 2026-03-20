@@ -1,0 +1,95 @@
+{
+  "name": "MIAN-x-NIAZI",
+  "description": "MIAN x NIAZI - Powerful WhatsApp Multi Device Bot with AI & Downloader Features",
+  "logo": "https://i.ibb.co/Lzftskdk/mian-x-niazi.jpg",
+  "keywords": ["whatsapp-bot", "multi-device", "ai-bot", "mian-niazi"],
+  "repository": "https://github.com/niazi-bot/MIAN-x-NIAZI",
+  "stack": "container",
+
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ],
+
+  "scripts": {
+    "start": "node index.js"
+  },
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Paste your session ID (PAIR CODE / QR).",
+      "value": "",
+      "required": false
+    },
+
+    "BOT_ADMIN": {
+      "description": "Enter your WhatsApp number (e.g: 923220225993).",
+      "value": "923220225993",
+      "required": true
+    },
+
+    "OWNER_NAME": {
+      "description": "Bot owner name",
+      "value": "MIAN x NIAZI",
+      "required": false
+    },
+
+    "BOT_NAME": {
+      "description": "Bot display name",
+      "value": "MIAN x NIAZI BOT",
+      "required": false
+    },
+
+    "BOT_PASSWORD": {
+      "description": "Password for web login",
+      "value": "12345678",
+      "required": false
+    },
+
+    "ADMIN_PASSWORD": {
+      "description": "Admin access password",
+      "value": "11223344",
+      "required": false
+    },
+
+    "ANTI_DELETE": {
+      "description": "Enable Anti Delete (true/false)",
+      "value": "false",
+      "required": false
+    },
+
+    "AUTO_READ": {
+      "description": "Auto read messages (true/false)",
+      "value": "true",
+      "required": false
+    },
+
+    "WELCOME_MSG": {
+      "description": "Enable welcome messages (true/false)",
+      "value": "true",
+      "required": false
+    },
+
+    "TELEGRAM_BOT_TOKEN": {
+      "description": "Optional Telegram bot token",
+      "value": "",
+      "required": false
+    }
+  },
+
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
