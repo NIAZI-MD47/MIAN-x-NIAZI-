@@ -1,4 +1,4 @@
-<h1 align="center"> 𝐒𝐏𝐀𝐂𝐄 𝐌𝐃 </h1>
+<h1 align="center"> NIAZI MD   </h1>
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/SPACE-MD">
